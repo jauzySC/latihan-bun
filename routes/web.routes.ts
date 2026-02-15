@@ -11,4 +11,5 @@ web.get('/school/:id',schoolsController.getDetailData)
 web.get('/classes',classesController.getListlKelas)
 
 web.get('/kelas/:id',classesController.getDetailKelas)
+web.get('/kelassss/:id',classesController.getDetailKelas)
 export default web

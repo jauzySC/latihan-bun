@@ -9,7 +9,7 @@ bun install
 To run:
 
 ```bash
-Bun run index.ts
+BUN run index.ts
 ```
 
 
